@@ -10,7 +10,7 @@
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--<title>Dsign - Minimal portfolio Bootstrap template</title>-->
-<title>Shimakaze-develop</title>
+<title>Shimakaze-develop template</title>
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/flexslider.css">
 <link rel="stylesheet" href="css/jquery.fancybox.css">
@@ -30,7 +30,6 @@
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
           <li><a href="about.html">About me</a></li>
-          <li><a href="/service">Service</a></li>
           <li><a href="contact.html">Contact</a></li>
 		  <li><a href="#">External Link</a></li>
         </ul>

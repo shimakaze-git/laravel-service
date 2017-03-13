@@ -10,14 +10,14 @@
 <meta charset="utf-8">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Shimakaze-develop|about </title>
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/flexslider.css">
-<link rel="stylesheet" href="css/jquery.fancybox.css">
-<link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/responsive.css">
-<link rel="stylesheet" href="css/animate.min.css">
-<link rel="stylesheet" href="css/font-icon.css">
+<title>Dsign - Minimal portfolio Bootstrap template</title>
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/flexslider.css">
+<link rel="stylesheet" href="/css/jquery.fancybox.css">
+<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/responsive.css">
+<link rel="stylesheet" href="/css/animate.min.css">
+<link rel="stylesheet" href="/css/font-icon.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 </head>
 
@@ -26,7 +26,7 @@
 <section class="banner" role="banner">
 <!--header navigation -->
   <header id="header">
-    <div class="header-content clearfix"> <a class="logo" href="index.html"><img src="images/logo.png" alt=""></a>
+    <div class="header-content clearfix"> <a class="logo" href="index.html"><img src="/images/logo.png" alt=""></a>
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
           <li><a href="about.html">About me</a></li>
@@ -61,10 +61,10 @@
   <div class="container">
     <div class="row">
       <div class="col-md-5 col-sm-5">
-        <div class="bio"> <img src="images/bio-image.jpg" alt="" class="img-responsive"> </div>
+        <div class="bio"> <img src="/images/bio-image.jpg" alt="" class="img-responsive"> </div>
       </div>
       <div class="col-md-7 col-sm-7">
-        <div class="bio"> <img src="images/team-1.jpg" alt="" class="img-responsive">
+        <div class="bio"> <img src="/images/team-1.jpg" alt="" class="img-responsive">
           <div class="bio-content">
             <h4>Jonathan Doe</h4>
             <h5>UX/UI Designer, Front-end Developer</h5>
@@ -102,12 +102,12 @@
 <!-- footer -->
 <!-- JS FILES --> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/jquery.flexslider-min.js"></script> 
-<script src="js/jquery.fancybox.pack.js"></script> 
-<script src="js/jquery.waypoints.min.js"></script> 
-<script src="js/retina.min.js"></script> 
-<script src="js/modernizr.js"></script> 
-<script src="js/main.js"></script>
+<script src="/js/bootstrap.min.js"></script> 
+<script src="/js/jquery.flexslider-min.js"></script> 
+<script src="/js/jquery.fancybox.pack.js"></script> 
+<script src="/js/jquery.waypoints.min.js"></script> 
+<script src="/js/retina.min.js"></script> 
+<script src="/js/modernizr.js"></script> 
+<script src="/js/main.js"></script>
 </body>
 </html>
