@@ -11,6 +11,12 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+
+// Homeページ
+Route::get('/', 'TopController@index');
+Route::get('/index.html', 'TopController@index');
+Route::get('/index.php', 'TopController@index');
